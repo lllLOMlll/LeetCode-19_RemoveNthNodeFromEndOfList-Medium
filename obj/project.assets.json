@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\louis\\Documents\\Code\\LeetCode\\Medium\\19_RemoveNthNodeFromEndOfList\\19_RemoveNthNodeFromEnedOfList\\19_RemoveNthNodeFromEnedOfList.csproj",
-      "projectName": "19_RemoveNthNodeFromEnedOfList",
-      "projectPath": "C:\\Users\\louis\\Documents\\Code\\LeetCode\\Medium\\19_RemoveNthNodeFromEndOfList\\19_RemoveNthNodeFromEnedOfList\\19_RemoveNthNodeFromEnedOfList.csproj",
+      "projectUniqueName": "C:\\Users\\louis\\Documents\\Code\\LeetCode\\Medium\\19_RemoveNthNodeFromEndOfList\\19_RemoveNthNodeFromEndOfList\\19_RemoveNthNodeFromEndOfList.csproj",
+      "projectName": "19_RemoveNthNodeFromEndOfList",
+      "projectPath": "C:\\Users\\louis\\Documents\\Code\\LeetCode\\Medium\\19_RemoveNthNodeFromEndOfList\\19_RemoveNthNodeFromEndOfList\\19_RemoveNthNodeFromEndOfList.csproj",
       "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\louis\\Documents\\Code\\LeetCode\\Medium\\19_RemoveNthNodeFromEndOfList\\19_RemoveNthNodeFromEnedOfList\\obj\\",
+      "outputPath": "C:\\Users\\louis\\Documents\\Code\\LeetCode\\Medium\\19_RemoveNthNodeFromEndOfList\\19_RemoveNthNodeFromEndOfList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\bin\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.exe
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\bin\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.deps.json
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\bin\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.runtimeconfig.json
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\bin\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.dll
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\bin\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.pdb
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\obj\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\obj\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.AssemblyInfoInputs.cache
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\obj\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.AssemblyInfo.cs
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\obj\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.csproj.CoreCompileInputs.cache
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\obj\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.sourcelink.json
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\obj\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.dll
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\obj\Debug\net9.0\refint\19_RemoveNthNodeFromEnedOfList.dll
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\obj\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.pdb
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\obj\Debug\net9.0\19_RemoveNthNodeFromEnedOfList.genruntimeconfig.cache
+C:\Users\louis\Documents\Code\LeetCode\Medium\19_RemoveNthNodeFromEndOfList\19_RemoveNthNodeFromEnedOfList\obj\Debug\net9.0\ref\19_RemoveNthNodeFromEnedOfList.dll
