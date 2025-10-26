@@ -19,33 +19,24 @@ public class Solution
 {
     public ListNode RemoveNthFromEnd(ListNode head, int n)
     {
-        int lengthOfTheListNode = 0;
+        ListNode dummy = new ListNode(0, head);
+        ListNode fast = dummy;
+        ListNode slow = dummy;
 
-        ListNode current = head;
-
-        while (current != null)
+        for (int i = 0; i <= n; i++)
         {
-            lengthOfTheListNode++;
-            current = current.next;
+            fast = fast.next;
         }
 
-        Console.WriteLine("Length of the ListNode = " + lengthOfTheListNode);
-
-        for (int i = 0; i < lengthOfTheListNode; i++)
+        while (fast != null)
         {
-            if (i == lengthOfTheListNode - n)
-            {
-                current = current.next.next;
-                i++;
-            }
-            else
-            {
-                current = current.next;
-            }
-
+            fast = fast.next;
+            slow = slow.next;
         }
 
-        return head;
+        slow.next = slow.next.next;
+
+        return dummy.next;
     }
 
     static void Main(string[] arg)
@@ -64,14 +55,20 @@ public class Solution
             current = current.next;
         }
 
-        // current = head;
-        // while (current != null)
-        // {
-        //     Console.WriteLine(current.val);
-        //     current = current.next; // avance vers le prochain nœud
-        // }
-
+        current = head;
+        
         Solution s = new Solution();
-        s.RemoveNthFromEnd(head, 2);
+        ListNode resultListNode = new ListNode();
+        resultListNode = s.RemoveNthFromEnd(head, 2);
+
+    
+        current = resultListNode;
+        while (current != null)
+        {
+            Console.WriteLine(current.val);
+            current = current.next; // move to the next node
+        }
+
+      
     }
 }

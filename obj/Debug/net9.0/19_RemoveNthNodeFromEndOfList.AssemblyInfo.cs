@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("19_RemoveNthNodeFromEndOfList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+372e5be54b956d6da6dd86d3a9ddd27e6a96f20a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c59a2dc3180d588c47af671fc5111e902348666")]
 [assembly: System.Reflection.AssemblyProductAttribute("19_RemoveNthNodeFromEndOfList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19_RemoveNthNodeFromEndOfList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
